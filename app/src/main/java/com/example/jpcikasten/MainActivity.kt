@@ -51,7 +51,7 @@ fun Agurra(name: String, modifier: Modifier = Modifier) {
         style= TextStyle(
             fontSize = 24.sp,
             fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,
-            color = Color.Blue,
+            color = Color.Red,
         )
         
 
